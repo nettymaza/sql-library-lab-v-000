@@ -13,3 +13,13 @@ INSERT INTO books (id, title, year, series_id) VALUES (3, "A Storm of Swords", 2
 INSERT INTO books (id, title, year, series_id) VALUES (4, "The Philosoper's Stone", 1997, 2);
 INSERT INTO books (id, title, year, series_id) VALUES (5, "The Chamber of Secrets", 1998, 2);
 INSERT INTO books (id, title, year, series_id) VALUES (6, "The Prisoner of Azkaban", 1999, 2);
+
+INSERT INTO characters (id, name, species, motto, series_id, author_id) VALUES (1, "Jon Snow", "human", 1, 1);
+INSERT INTO characters (id, name, species, motto, series_id, author_id) VALUES (2, "Arya Stark", "human", 1, 1);
+INSERT INTO characters (id, name, species, motto, series_id, author_id) VALUES (3, "Daenerys Targaryen", "human", 1, 1);
+INSERT INTO characters (id, name, species, motto, series_id, author_id) VALUES (4, "Tyrion Lannister", "human", 1, 1);
+INSERT INTO characters (id, name, species, motto, series_id, author_id) VALUES (5, "Harry Potter", "human", 2, 2);
+INSERT INTO characters (id, name, species, motto, series_id, author_id) VALUES (6, "Ron Weasley", "human", 2, 2);
+INSERT INTO characters (id, name, species, motto, series_id, author_id) VALUES (5, "Hermione Granger", "human", 2, 2);
+INSERT INTO characters (id, name, species, motto, series_id, author_id) VALUES (6, "Lord Voldemort", "human", 2, 2);
+
