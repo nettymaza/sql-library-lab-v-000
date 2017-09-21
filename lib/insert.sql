@@ -22,4 +22,3 @@ INSERT INTO characters (id, name, species, motto, series_id, author_id) VALUES (
 INSERT INTO characters (id, name, species, motto, series_id, author_id) VALUES (6, "Ron Weasley", "human", 2, 2);
 INSERT INTO characters (id, name, species, motto, series_id, author_id) VALUES (5, "Hermione Granger", "human", 2, 2);
 INSERT INTO characters (id, name, species, motto, series_id, author_id) VALUES (6, "Lord Voldemort", "human", 2, 2);
-
