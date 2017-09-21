@@ -14,10 +14,5 @@ INSERT INTO books (id, title, year, series_id) VALUES (4, "The Philosoper's Ston
 INSERT INTO books (id, title, year, series_id) VALUES (5, "The Chamber of Secrets", 1998, 2);
 INSERT INTO books (id, title, year, series_id) VALUES (6, "The Prisoner of Azkaban", 1999, 2);
 
-INSERT INTO characters (id, name, motto, species, author_id, series_id) VALUES (1, "Lady", "Woof Woof", "direwolf", 1, 1), (2, "Tyrion Lanister", "A Lanister always pays is debts", "human", 1, 1), (3, "Daenerys Targaryen", "If I look back I am lost", "human", 1, 1), (4, "Eddard Stark", "Winter is coming", "human", 1, 1);
-
+INSERT INTO characters (id, name, motto, species, author_id, series_id) VALUES (1, "Lady", "Woof Woof", "direwolf", 1, 1), (2, "Tyrion Lannister", "A Lannister always pays his debts", "human", 1, 1), (3, "Daenerys Targaryen", "If I look back I am lost", "human", 1, 1), (4, "Eddard Stark", "Winter is coming", "human", 1, 1);
 INSERT INTO characters (id, name, motto, species, author_id, series_id) VALUES (5, "Character One", "motto one", "cylon", 2, 2), (6, "Character Two", "motto two", "human", 2, 2), (7, "Character Three", "motto three", "cylon", 2, 2), (8, "Character Four", "motto four", "cylon", 2, 2);
-
-
-INSERT INTO characters (id, name, species, motto, series_id, author_id) VALUES (1, "Jon Snow", "Dragon", "Winter is Coming" 1, 1), (2, "Arya Stark", "human", "Light like the wind" 1, 1), (3, "Daenerys Targaryen", "Dragon", "I am mother of Dragons" 1, 1), (4, "Tyrion Lannister", "Imp", "A Lannister always pays his debts" 1, 1);
-INSERT INTO characters (id, name, species, motto, series_id, author_id) VALUES (5, "Harry Potter", "Wizard", "motto1", 2, 2), (6, "Ron Weasley", "human", "motto2", 2, 2), (7, "Hermione Granger", "human", "motto3", 2, 2), (8, "Lord Voldemort", "Sorcerer", "motto4", 2, 2);
