@@ -4,8 +4,8 @@ INSERT INTO series (id, title, author_id, subgenre_id) VALUES (2, "Harry Potter"
 INSERT INTO subgenres (id, name) VALUES (1, "Fantasy");
 INSERT INTO subgenres (id, name) VALUES (2, "Mystery");
 
-INSERT INTO authors (id, name) VALUES (1, "Maru", 3, "Scottish Fold", 1000000);
-INSERT INTO authors (id, name) VALUES (1, "Maru", 3, "Scottish Fold", 1000000);
+INSERT INTO authors (id, name) VALUES (1, "Maru");
+INSERT INTO authors (id, name) VALUES (1, "Maru");
 
 INSERT INTO books (id, title, year, series_id) VALUES (1, "Maru", 3, "Scottish Fold", 1000000);
 INSERT INTO books (id, title, year, series_id) VALUES (2, "Maru", 3, "Scottish Fold", 1000000);
